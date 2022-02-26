@@ -3,8 +3,8 @@ A simple program that will let you connect to any IP and modify parameters of th
 
 # VRCParameterController using OSC
 
-## [HOW TO USE]
-Download the .zip file from releases and run OSC.exe
+## [HOW TO INSTALL]
+Download and extract the .zip file from releases and run VrcOscParameterController.exe
 
 ## [IP ADDRESS]
 Here you can put in either your your local or public IP address.
